@@ -1,8 +1,6 @@
 ## Welcome 👋
 
-I'm a software-focused Information Systems graduate with hands-on experience building and maintaining 
-production websites, developing AI-powered and database-driven applications, and working across 
-frontend, backend, and cloud environments. On my free time I enjoy making video games.
+I'm a software-focused Information Systems graduate with hands-on experience building and maintaining  websites, developing AI-powered and database-driven applications, and working across frontend, backend, and cloud environments. On my free time I enjoy making video games.
 
 <!--
 **Design-BAB/Design-BAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
